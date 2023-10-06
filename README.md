@@ -1,13 +1,14 @@
-<h1 align="center">Hi 👋, I'm mary-cynthia Ejike</h1>
+[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu8S92pJBfMTMU-4o4VIKh0TPRNq8MoEZI9g&usqp=CAU)
+<h1 align="center">Hi 👋, I'm Mary-cynthia Ejike</h1>
 <h3 align="center">I am passionate about devops and cloud technologies</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO_DiG4xAUqU0OrwJqu1Py4Tk3n2UUCtTN9Q&usqp=CAU">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=genejike&label=Profile%20views&color=0e75b6&style=flat" alt="genejike" /> </p>
+- 🔭 I’m currently working on [30 real time devops projects](https://github.com/genejike/DEVOPS-PROJECT/tree/main/AWS-PROJECTS)
 
-- 🌱 I’m currently learning **devops**
-
-- 📫 How to reach me **genejike2014@gmail.com**
-
+- 🌱 I’m currently learning **Terraform**
+  
+- - 📫 How to reach me **genejike2014@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mary-cynthia ejike" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mary-cynthia ejike" height="30" width="40" /></a>
