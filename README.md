@@ -1,5 +1,5 @@
 ![MasterHead](https://www.sogeti.com/globalassets/global/content-images/explore/blog/2020-predictions/00086---vr---v0.1.gif)
-<h1 align="center">Hi 👋, I'm Mary-cynthia Ejike</h1>
+<h1 align="center">Hi 👋, I'm Mary-Cynthia Ejike</h1>
 <h3 align="center">I am passionate about Devops and cloud technologies</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO_DiG4xAUqU0OrwJqu1Py4Tk3n2UUCtTN9Q&usqp=CAU">
 
