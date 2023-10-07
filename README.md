@@ -1,10 +1,7 @@
-<img align="up" src="https://www.contrastsecurity.com/hs-fs/hubfs/images/DevOps%20Solutions/devops-old-way.gif?width=1322&name=devops-old-way.giff"  width="60%"/>
-<p align="left"> 
-<h1 align="center">Hi,I'm Mary-Cynthia Ejike</h1>
-<h3 align="center">I am passionate about Devops and cloud technologies</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.faun.dev/prod/media/public/original_images/DevOps-min.gif" /> </p>>
+<img width="900" alt="Snipaste_2023-10-07_17-05-17" src="https://github.com/genejike/genejike/assets/75420964/79159063-d8c6-4968-a148-9d78d210f9b6"/>
 
-<p align="left"> <img src=""https://komarev.com/ghpvc/?username=genejike&label=Profile%20views&color=0e75b6&style=flat" alt="genejike" /> </p>
+
+<img align="right" alt="Coding" width="400" src="https://cdn.faun.dev/prod/media/public/original_images/DevOps-min.gif" /> </p>
 
 - 🔭 I’m currently working on [30 real time devops projects](https://github.com/genejike/DEVOPS-PROJECT/tree/main/AWS-PROJECTS)🍏
 
