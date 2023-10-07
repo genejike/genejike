@@ -21,3 +21,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=genejike&show_icons=true&locale=en&layout=compact" alt="genejike" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=genejike&" alt="genejike" /></p>
+
+[![Mary's GitHub stats](https://github-readme-stats.vercel.app/api?username=genejike)](https://github.com/genejike/github-readme-stats)
