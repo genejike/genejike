@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=genejike&label=Profile%20views&color=0e75b6&style=flat" alt="genejike" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=genejike" alt="genejike" /></a> </p>
-
 <img align="right" alt="Coding" width="400" src="https://cdn.faun.dev/prod/media/public/original_images/DevOps-min.gif" /> </p>
 
 - 🔭 I’m currently working on [30 real time devops projects](https://github.com/genejike/DEVOPS-PROJECT/tree/main/AWS-PROJECTS)🍏
