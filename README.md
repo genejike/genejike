@@ -1,4 +1,4 @@
-<h1 align="left">Hi, I'm mary-cynthia Ejike</h1>
+<h1 align="left">Hi, I'm Mary-Cynthia Ejike</h1>
 <h3 align="left">I am a Devops and Computer Engineer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=genejike&label=Profile%20views&color=0e75b6&style=flat" alt="genejike"/> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.faun.dev/prod/media/public/original_images/DevOps-min.gif" /> </p>
