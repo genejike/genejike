@@ -1,5 +1,9 @@
-<img width="900" alt="Snipaste_2023-10-07_17-05-17" src="https://github.com/genejike/genejike/assets/75420964/79159063-d8c6-4968-a148-9d78d210f9b6"/>
+<h1 align="center">Hi, I'm mary-cynthia Ejike</h1>
+<h3 align="center">I am a Devops and Computer Engineer</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=genejike&label=Profile%20views&color=0e75b6&style=flat" alt="genejike" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=genejike" alt="genejike" /></a> </p>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.faun.dev/prod/media/public/original_images/DevOps-min.gif" /> </p>
 
@@ -7,7 +11,13 @@
 
 - 🌱 I’m currently learning **Terraform**
   
+- 📝 I regularly write articles on [igbogirlcoder](https://igbogirlcoder.hashnode.dev/)
+
+- 💬 Ask me about **Devops and cloud technologies**
+
 - 📫 How to reach me **genejike2014@gmail.com**
+
+- ⚡ Fun fact **I love Music**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mary-cynthia ejike" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mary-cynthia ejike" height="30" width="40" /></a>
@@ -18,7 +28,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=genejike&show_icons=true&locale=en&layout=compact" alt="genejike" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=genejike&" alt="genejike" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=genejike&" alt="genejike" /></p>
 
 [![Mary's GitHub stats](https://github-readme-stats.vercel.app/api?username=genejike)](https://github.com/genejike/github-readme-stats)
 
