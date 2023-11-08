@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [30 real time devops projects](https://github.com/genejike/DEVOPS-PROJECT/tree/main/AWS-PROJECTS)🍏
 
-- 🌱 I’m currently learning **Terraform**
+- 🌱 I’m currently learning [**Terraform**](https://github.com/genejike/terraform-beginner-bootcamp-2023)
   
 - 📝 I regularly write articles on [igbogirlcoder](https://igbogirlcoder.hashnode.dev/)
 
