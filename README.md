@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [30 real time devops projects](https://github.com/genejike/DEVOPS-PROJECT/tree/main/AWS-PROJECTS)🍏
 
-- 🌱 I’m currently learning [**jenkins**](https://github.com/genejike/DEVOPS-PROJECT/tree/main/AWS-PROJECTS))
+- 🌱 I’m currently learning [**Jenkins**](https://github.com/genejike/DEVOPS-PROJECT/tree/main/AWS-PROJECTS)
   
 - 📝 I regularly write articles on [igbogirlcoder](https://igbogirlcoder.hashnode.dev/)
 
