@@ -4,16 +4,13 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.faun.dev/prod/media/public/original_images/DevOps-min.gif" /> </p>
 
 - 🔭 I’m currently working on [30 real time devops projects](https://github.com/genejike/DEVOPS-PROJECT/tree/main/AWS-PROJECTS)🍏
-
-- 🌱 I’m currently learning [**Jenkins**](https://github.com/genejike/DEVOPS-PROJECT/tree/main/AWS-PROJECTS)
-  
 - 📝 I regularly write articles on [igbogirlcoder](https://igbogirlcoder.hashnode.dev/)
 
 - 💬 Ask me about **Devops and cloud technologies**
 
 - 📫 How to reach me **genejike2014@gmail.com**
 
-- ⚡ Fun fact **I love Music**
+- ⚡ Fun fact **I love baking**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mary-cynthia ejike" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="mary-cynthia ejike" height="35" width="60" /></a>
