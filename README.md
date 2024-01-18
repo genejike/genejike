@@ -22,7 +22,10 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=genejike&show_icons=true&locale=en&layout=compact" alt="genejike" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=genejike&" alt="genejike" /></p>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=genejike&theme=transparent&mode=weekly)](https://git.io/streak-stats)
+
+
 
 [![Mary's GitHub stats](https://github-readme-stats.vercel.app/api?username=genejike)](https://github.com/genejike/github-readme-stats)
 
