@@ -3,9 +3,6 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.faun.dev/prod/media/public/original_images/DevOps-min.gif" /> </p>
 
-- 🔭 I’m currently working on [30 real time devops projects](https://github.com/genejike/DEVOPS-PROJECT/tree/main/AWS-PROJECTS)🍏
-- 📝 I regularly write articles on [igbogirlcoder](https://igbogirlcoder.hashnode.dev/)
-
 - 💬 Ask me about **Devops and cloud technologies**
 
 - 📫 How to reach me **genejike2014@gmail.com**
