@@ -15,9 +15,9 @@
 
 
 
-![Mary's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=genejike&hide=stars&count_private=true&show_icons=true&theme=radical)
+![Mary's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=genejike&hide=stars&count_private=true&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=genejike&layout=compact&theme=radical)](https://github.com/genejike/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=genejike&layout=compact&theme=dark)](https://github.com/genejike/github-readme-stats)
 
 
 
