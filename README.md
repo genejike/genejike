@@ -3,6 +3,8 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.faun.dev/prod/media/public/original_images/DevOps-min.gif" /> </p>
 
+<img src="https://komarev.com/ghpvc/?username=genejike" alt="https://github.com/genejike"/>
+
 - 💬 Ask me about **Devops and cloud technologies**
 
 - 📫 How to reach me **genejike2014@gmail.com**
